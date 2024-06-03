@@ -28,6 +28,9 @@ const Index = () => {
         <Button colorScheme="teal" size="lg">
           Contact Me
         </Button>
+        <Button colorScheme="blue" size="lg">
+          Learn More
+        </Button>
       </VStack>
     </Container>
   );
